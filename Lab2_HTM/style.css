@@ -1,0 +1,17 @@
+#img1{
+    max-width: 500px;
+    width: 100%;
+}
+
+#img2{
+    width: 32px;
+}
+
+body{
+    font-size: 25px;
+    background-color: #f0f0f0;
+}
+
+h1{
+    text-align: center;
+}
